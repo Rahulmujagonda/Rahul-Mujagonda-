@@ -4,9 +4,9 @@ Hi, I'm Rahul Mujagonda 👋
 📍 Bangalore, India
 
 🚀 About Me
-Java Developer with hands-on experience in Spring Boot, MySQL, and full-stack development
-Strong in OOP, JDBC, and building CRUD-based applications
-Passionate about building scalable and user-friendly web applications.
+.Java Developer with hands-on experience in Spring Boot, MySQL, and full-stack development.
+.Strong in OOP, JDBC, and building CRUD-based applications.
+.Passionate about building scalable and user-friendly web applications
 
 🛠️ Tech Stack
 Languages: Java, JavaScript
